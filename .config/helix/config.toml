@@ -1,0 +1,12 @@
+theme = "autumn"
+
+[editor]
+line-number = "relative"
+bufferline = "always"
+shell = ["bash", ""]
+gutters = ["diagnostics","spacer","line-numbers","spacer","diff"]
+mouse = false
+color-modes = true
+
+[editor.cursor-shape]
+insert = "bar"
