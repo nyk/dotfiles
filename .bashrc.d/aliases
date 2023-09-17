@@ -4,3 +4,4 @@ alias la="ls -a"
 alias psa="ps -aux"
 alias vim="nvim"
 alias ffs='sudo $(history -p !!)'
+alias cb="xclip -selection clipboard"

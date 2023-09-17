@@ -25,3 +25,6 @@ if [ -d ~/.bashrc.d ]; then
 fi
 
 unset rc
+
+neofetch
+. "$HOME/.cargo/env"

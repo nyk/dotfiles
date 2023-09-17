@@ -1,2 +1,5 @@
-PATH="$HOME/go/bin:$PATH"
+PATH="$HOME/go/bin:$PATH" # Add Go to the path
+PATH="$HOME/Applications/flutter/bin:$PATH" # Add flutter to the path
+PATH="$HOME/Applications/android-studio/bin:$PATH" # Add Android Studio to the path
+
 export PATH
